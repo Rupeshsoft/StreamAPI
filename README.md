@@ -7,6 +7,7 @@ like
 **orElse()**
 Using orElse evaluate fallback value
 opt.orElse(printDefault());
+
 **orElseGet()** : avoid unnecessory computations and evaluate when value is missing in opt variable.
 opt.orElseGet(()->printDefault());
 
