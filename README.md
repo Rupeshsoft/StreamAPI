@@ -3,7 +3,8 @@ You will find all Stream API related coding snippets for Java Collections and St
 
 Same Series contains orElse() and orElseGet() differences
 
-like
+like Under StreamFundas You can find follwing details with concat example.
+=========================================================================
 **orElse()**
 Using orElse evaluate fallback value with
 opt.orElse(printDefault());
