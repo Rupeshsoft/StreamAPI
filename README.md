@@ -5,7 +5,7 @@ Same Series contains orElse() and orElseGet() differences
 
 like
 **orElse()**
-Using orElse evaluate fallback value
+Using orElse evaluate fallback value with
 opt.orElse(printDefault());
 
 **orElseGet()** : avoid unnecessory computations and evaluate when value is missing in opt variable.
